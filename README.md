@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SMohabey
 - 👀 I’m interested in Robotics, Automation, IoT
-- 🌱 I’m currently learning OpenCV
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 🌱 I’m currently learning TinyMl, OpenCV
+- 📫 How to reach me just drop a message on shrishtimohabey@gmail.com
 
 <!---
 SMohabey/SMohabey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
