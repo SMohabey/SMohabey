@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SMohabey
 - 👀 I’m interested in Robotics, Automation, IoT
-- 🌱 I’m currently learning OpenCV, TinyML
+- 🌱 I’m currently learning Deep Learning, TinyML
 
 <!---
 SMohabey/SMohabey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
